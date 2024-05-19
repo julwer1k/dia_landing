@@ -18,7 +18,7 @@ This project provides the foundation for building a dynamic one-page website to 
 - **JavaScript (Light Usage):** Minimal JavaScript for minor interactive elements or functionalities (e.g., slider).
 ## Demo
 
-Click the button below to experience the MyBike landing page:
+Click the button below to experience the DIA landing page:
 
 [DEMO](https://julwer1k.github.io/dia_landing/)
 
